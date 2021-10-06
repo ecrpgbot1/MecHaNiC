@@ -1,11 +1,12 @@
 # MecHaNiC
 
-Multipurpose Bot coded in discord.py by @Endomorph#4289.
+> Multipurpose Bot coded in discord.py by `@Endomorph#4289`.
 
-Invite me :- https://discord.com/oauth2/authorize?client_id=826891395762618419&permissions=8&scope=bot
+**Invite me** :- [CLICK THIS](https://discord.com/oauth2/authorize?client_id=826891395762618419&permissions=8&scope=bot)
 
 
-__Current Features__:-
+**Current Features:**
+
  -> SA:MP server info and ingame notifications
 
  -> Moderation
@@ -32,8 +33,8 @@ __Current Features__:-
 
 and more...
 
-Prefix:- `.`(dot)
+**Prefix:** `.`
 
-Support Server:- https://discord.gg/tvGxAPJbYG
+**Support Server:** https://discord.gg/tvGxAPJbYG
 
-For business related queries, contact @Endomorph#4289 in the support server.
+For business related queries, contact **@Endomorph#4289** in the support server.
