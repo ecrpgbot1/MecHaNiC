@@ -2,7 +2,7 @@
 
 > Multipurpose Bot coded in discord.py by `@Endomorph#4289`.
 
-**Invite me** :- [CLICK THIS](https://discord.com/oauth2/authorize?client_id=826891395762618419&permissions=8&scope=bot)
+**Invite me** :- [CLICK HERE](https://discord.com/oauth2/authorize?client_id=826891395762618419&permissions=8&scope=bot)
 
 
 **Current Features:**
